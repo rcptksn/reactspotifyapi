@@ -1,2 +1,4 @@
 # reactspotifyapi
-React işe spotify api kullanımı
+React ilee spotify api kullanımı
+
+Demo sayfa için: http://recepteksan.com/ReactSpotifyApi/ adresini ziyaret edebilirsiniz.
